@@ -1,0 +1,26 @@
+{
+  "name": "unicode-math",
+  "version": "0.1.0",
+  "description": "Unicode values for LaTeX math symbols.",
+  "main": "index.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeas/unicode-math.js.git"
+  },
+  "keywords": [
+    "latex",
+    "unicode",
+    "symbols",
+    "symbol",
+    "list"
+  ],
+  "author": "Jmeas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeas/unicode-math.js/issues"
+  },
+  "homepage": "https://github.com/jmeas/unicode-math.js"
+}
