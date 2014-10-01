@@ -12,7 +12,7 @@ npm install unicode-math
 
 ### Basic Use
 
-This library exports a JSON object for each symbol.
+This library exports an object that contains each symbol.
 
 ```js
 var unicodeMath = require('unicode-math');
@@ -23,7 +23,7 @@ unicodeMath['\\neg'];
 
 Each entry has three properties:
 
-- `unicode`: The unicode value
+- `codePoint`: The unicode value as a number
 - `type`: The type
 - `description`: A short description
 
