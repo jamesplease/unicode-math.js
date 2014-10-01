@@ -2,7 +2,7 @@
   "name": "unicode-math",
   "version": "0.1.0",
   "description": "Unicode values for LaTeX math symbols.",
-  "main": "index.json",
+  "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
