@@ -1,6 +1,6 @@
 {
   "name": "unicode-math",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Unicode values for LaTeX math symbols.",
   "main": "index.js",
   "scripts": {
